@@ -3,3 +3,5 @@ line2
 
 add some thing new
  third line
+
+this one is not bad
